@@ -37,6 +37,10 @@ cd ../infra-hares
 docker compose up -d proxy
 ```
 
+> ⚠️ Este repo **no tiene `docker compose`**: si ejecutas `docker compose ps` aquí verás
+> `no configuration file provided`. Para ver los contenedores desde cualquier carpeta usa `docker ps`.
+> Guía de comandos: `../infra-hares/guide/comandos.md`.
+
 ## Verificación de la configuración
 
 ```bash
