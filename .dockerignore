@@ -1,0 +1,9 @@
+.git
+.gitignore
+.agents
+.claude
+.vscode
+guide
+scripts
+README.md
+*.md
